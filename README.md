@@ -1,8 +1,5 @@
 # youtube-timestamp-screenshotter
 Capture screenshots of a given URL at exact :05 and :55 every minute to estimate YouTube upload times from relative timestamps.
-
-# YouTube Timestamp Screenshotter
-
 YouTubeの「○時間前」表記から投稿時間を推定するために、指定したURLのスクリーンショットを正確な時刻で取得するPythonツール。
 
 ## 概要
